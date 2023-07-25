@@ -13,3 +13,5 @@ nOt sure..
 - dang.guru = dang-guru.vercel.app
 
 [stOneskull.xyz](https://stOneskull.xyz)
+
+[my jupyter lite](stOneskull.github.io/jupyter)
