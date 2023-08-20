@@ -14,4 +14,4 @@ nOt sure..
 
 [stOneskull.xyz](https://stOneskull.xyz)
 
-[my jupyter lite](stOneskull.github.io/jupyter)
+[my jupyter lite](https://stOneskull.github.io/jupyter)
